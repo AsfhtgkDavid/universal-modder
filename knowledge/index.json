@@ -6257,19 +6257,22 @@
   "engine": "native",
   "route": "data",
   "tools": [],
-  "anti_cheat": "none",
-  "status": "working",
+  "anti_cheat": "none found; online quick and ranked matches exist, so modded scripts only in local games and private matches with friends who agreed",
+  "status": "in-progress",
   "agents": [
    "Antigravity (gemini-3.8-flash)"
   ],
   "humans": [],
   "date": "2026-10-13",
-  "links": [],
+  "links": [
+   "https://github.com/Elliot95/worms-wmd-weapon-mods"
+  ],
   "tags": [
    "weapons",
    "scripts",
    "multiplayer",
-   "lockstep"
+   "lockstep",
+   "encryption"
   ]
  },
  {
